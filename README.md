@@ -16,7 +16,7 @@ This repository contains all about Artificial Intelligence and Machine Learning 
 ### 2. Machine Learning
 - Supervised Learning
   - Classification
-    - [K Nearest Neighbours Classification](Machine%20Learning/KNN%20Classification%20&%20Regression/KNN%20Classification%20Algorithm.ipynb)
+    - [K Nearest Neighbours Classification](Machine%20Learning/KNN%20Classification%20%26%20Regression/KNN%20Classifier%20Algorithm.ipynb)
     - [Logistic Regression](Machine%20Learning/Logistic%20Regression/Logistic%20Regression%20Classifier.ipynb)
   - Regression
     - [K Nearest Neighbours Regression](Machine%20Learning/KNN%20Classification%20&%20Regression/KNN%20Regression%20Algorithm.ipynb)
